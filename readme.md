@@ -30,6 +30,8 @@ This database project is intended for use by a church or religious organization 
 
 - **Visitors:** Record details of visitors to the church, including their journey toward becoming members.
 
+![alt text](https://github.com/elgod7/churchmanagementDB.git/dbimage.png?raw=true)
+
 ## Database Schema
 
 The database schema includes several tables with relationships between them. Here are the main tables in the database:
