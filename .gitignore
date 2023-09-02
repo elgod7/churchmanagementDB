@@ -1,18 +1,25 @@
 .vscode/
+
 #Cache folder
 .alcache/
+
 #Symbols folder
 .alpackages/
+
 #Snapshots folder
 .snapshots/
+
 #Testing Output folder
 .output/
+
 #Extension App-file
 *.dbs
 *.bak
 *.mdx
+
 #Rapid Application Development File
 rad.json
+
 #Translation Base-file
 *.g.xlf
 #License-file
